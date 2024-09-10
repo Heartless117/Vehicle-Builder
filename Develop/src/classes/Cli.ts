@@ -280,6 +280,7 @@ class Cli {
   // method to find a vehicle to tow
   // TODO: add a parameter to accept a truck object
   findVehicleToTow(): void {
+    const truck = this.selectedVehicleVin;
     inquirer
       .prompt([
         {
