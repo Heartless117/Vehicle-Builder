@@ -1,6 +1,6 @@
 
   # Vehicle Builder
-  ![Github license](http://img.shield.io/badge/license-MIT-blue.svg)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 This project was created using typescript ans OOP to make a vehicle builder
