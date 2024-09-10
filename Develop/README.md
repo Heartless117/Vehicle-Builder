@@ -11,6 +11,7 @@ This project was created using typescript ans OOP to make a vehicle builder
 - [Contribution](#contribution)
 - [Tests](#tests)
 - [License](#license)
+- [Video](#video)
 - [Questions](#questions)
 
 
@@ -31,6 +32,9 @@ n/a
 
 ## License
 The licence i used is MIT license
+
+## Video
+https://app.screencastify.com/v3/watch/kFE0n3skSfyLOMx2OwMl
 
 ## Questions
 Contact me on this platforms:
