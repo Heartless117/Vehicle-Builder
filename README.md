@@ -32,6 +32,9 @@ n/a
 ## License
 The licence i used is MIT license
 
+## Video
+https://app.screencastify.com/v3/watch/kFE0n3skSfyLOMx2OwMl
+
 ## Questions
 Contact me on this platforms:
 Email: [christiancruz1997@gmail.com](mailto:christiancruz1997@gmail.com). 
