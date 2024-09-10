@@ -68,7 +68,7 @@ class Motorbike extends Vehicle {
       `Wheels 1: ${this.wheels[0].getDiameter} inches with a ${this.wheels[0].getTireBrand} tire`
     );
     console.log(
-      `Wheels 2: ${this.wheels[1].diameter} inches with a ${this.wheels[1].tireBrand} tire`
+      `Wheels 2: ${this.wheels[1].getDiameter} inches with a ${this.wheels[1].getDiameter} tire`
     );
   }
 }
